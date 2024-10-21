@@ -352,3 +352,5 @@
 2024/10/14	14:28:13	1170035b-a7ed-4c68-945f-57537dc88be9	Error: Invalid Credentials, 401
 2024/10/14	14:33:28	c851d3a8-f380-42c9-af07-1523c932d6ff	Error: Not authorized to access this route, 401
 2024/10/14	14:34:41	ae76a7f7-6535-40ea-9d8b-8b3ea81f78f8	Error: Not authorized to access this route, 401
+2024/10/21	12:05:36	092b7599-e71d-4296-8c5e-369b03145450	Error: Not allowed by CORS, 401
+2024/10/21	12:05:36	05aa10e9-abaa-4097-8235-55e9c3f2b907	Error: Not allowed by CORS, 401

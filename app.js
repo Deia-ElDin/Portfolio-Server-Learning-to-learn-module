@@ -59,7 +59,6 @@ app.use(errorHandler);
 const start = async () => {
   try {
     await connectDB(process.env.MONGO_URI);
-    console.log("connected to db");
 
     app.listen(PORT, () => {
       console.log(`Server is up & , ${PORT}`);

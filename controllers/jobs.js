@@ -3,7 +3,6 @@ const { BadRequestError, NotFoundError, ConflictError } = require("../errors");
 
 const getAllJobs = async (req, res) => {
   const jobs = await Job.find({});
-  console.log("jobs", jobs);
 
   res.status(200).json({ data: jobs });
 };

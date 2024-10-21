@@ -1413,3 +1413,17 @@
 2024/10/14	14:34:41	5a6b0a7f-7c7d-4897-b7c2-d0c0d4a3588d	OPTIONS	http://localhost:3000	/api/v1/skills/6310a074b631e5282aa3bd96
 2024/10/14	14:34:41	e6e9ff4e-2914-4f1b-a734-21fef364349a	PATCH	http://localhost:3000	/api/v1/skills/6310a074b631e5282aa3bd96
 2024/10/14	14:34:41	e626fa8c-afc4-4944-af2d-4221deda5ef3	GET	http://localhost:3000	/api/v1/skills
+2024/10/21	12:05:36	0814a502-4209-430b-86ae-840e40f2535a	GET	undefined	/
+2024/10/21	12:05:36	a10a6d6e-683e-4cb3-b87b-8f13be728f71	GET	undefined	/favicon.ico
+2024/10/21	12:09:17	125eb9fb-392f-49f7-84ad-72bcd440ae0c	GET	http://localhost:3000	/api/v1/profile
+2024/10/21	12:09:17	1f78a126-0c22-4bea-834a-03d3c0968573	GET	http://localhost:3000	/api/v1/skills
+2024/10/21	12:09:17	958a9517-97b3-4c7a-b4e7-d10dd2c0ea80	GET	http://localhost:3000	/api/v1/jobs
+2024/10/21	12:09:17	eba29661-3280-4d28-876c-b5e7d2b64880	GET	http://localhost:3000	/api/v1/projects
+2024/10/21	12:09:17	14a26e2f-21d7-4c91-979d-9223e834aedd	GET	http://localhost:3000	/api/v1/contacts
+2024/10/21	12:09:17	ccaadb91-fa92-4c71-9aa3-6cd079277f89	GET	http://localhost:3000	/api/v1/medias
+2024/10/21	12:19:38	2d9053f4-959b-4bd8-8f02-0ad5619e7e53	GET	http://localhost:3000	/api/v1/profile
+2024/10/21	12:19:39	ffff80d2-843c-4127-a743-29ae9fd7e645	GET	http://localhost:3000	/api/v1/skills
+2024/10/21	12:19:39	077b9098-b4ed-40f1-b44a-29bf2507ddfe	GET	http://localhost:3000	/api/v1/jobs
+2024/10/21	12:19:39	b4043bd9-a178-42d7-8f07-1a6429316974	GET	http://localhost:3000	/api/v1/projects
+2024/10/21	12:19:39	11d41c38-18c0-437e-8d56-0d33af033461	GET	http://localhost:3000	/api/v1/contacts
+2024/10/21	12:19:39	6f06e62d-a97d-4243-acb2-0ff934ed57ab	GET	http://localhost:3000	/api/v1/medias
