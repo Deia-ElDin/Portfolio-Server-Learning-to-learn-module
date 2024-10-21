@@ -1,0 +1,354 @@
+2022/09/27	00:24:55	918b45f3-0edf-4482-bf0e-285bbfcd2003	Error: Not allowed by CORS, 401
+2022/09/27	00:24:55	c782b6d2-4b73-4f93-af37-0fbf5665c0a4	Error: Not allowed by CORS, 401
+2022/09/27	00:24:55	3784024b-ef97-4540-99b8-352f7a148c19	Error: Not allowed by CORS, 401
+2022/09/27	00:24:55	6d24bf29-1b01-447b-870b-b610dc72edf6	Error: Not allowed by CORS, 401
+2022/09/27	00:24:55	1cedf5b7-ea4a-4fd6-a2f6-8985c3305dc2	Error: Not allowed by CORS, 401
+2022/09/27	00:24:55	32bec4e2-1dd7-42a7-a80c-bf24da76adb3	Error: Not allowed by CORS, 401
+2022/09/27	04:57:59	a6d0520a-b839-4a3f-ace2-ebd7db10a67c	CastError: Cast to Number failed for value "35 days" (type string) at path "duration", undefined
+2022/09/27	14:55:54	326f3536-69e9-4fe8-9ddf-255e6a15099d	Error: Not authorized to access this route, 401
+2022/09/27	16:13:13	3877d744-f0b2-4d76-b4dc-519c0128d9f3	Error: You can't submit an empty form!, 400
+2022/09/27	16:13:51	3233c6b2-d401-4249-b47b-751cd5420f1b	ValidationError: Project validation failed: technologies: Must provide the project technologies, undefined
+2022/09/30	00:46:38	ad7a33e5-8ae4-4fda-ba0e-dc53d3cddb3d	Error: Not allowed by CORS, 401
+2022/09/30	00:46:38	dde3f4fa-935f-46df-b566-ba669aa4ccc0	Error: Not allowed by CORS, 401
+2022/09/30	00:46:38	5d676ae5-65d4-4ef0-bb3c-c05a01d6bf93	Error: Not allowed by CORS, 401
+2022/09/30	00:46:38	5476ace8-c089-40be-bc91-be1c07a1b980	Error: Not allowed by CORS, 401
+2022/09/30	00:46:38	8f77ab2b-e6c3-42b1-996f-9ee4b026eaf3	Error: Not allowed by CORS, 401
+2022/09/30	00:46:38	ff258d2e-d95f-4a6f-a97e-e86a3ef37d8d	Error: Not allowed by CORS, 401
+2022/09/30	00:49:32	3b5f1bcf-9172-44e6-8bd7-9f16905ba102	Error: Not allowed by CORS, 401
+2022/09/30	00:49:32	693f8c40-0a37-44d9-a88e-7daa75f79feb	Error: Not allowed by CORS, 401
+2022/09/30	00:49:32	b815a902-5141-4df5-a303-e90b0a232282	Error: Not allowed by CORS, 401
+2022/09/30	00:49:32	ba17acbf-b1c2-4cb1-8101-7243b84909a6	Error: Not allowed by CORS, 401
+2022/09/30	00:49:32	9f5c7d3c-3b98-450b-b806-e9a379cc5f0b	Error: Not allowed by CORS, 401
+2022/09/30	00:49:32	8e598e35-49e8-46a2-8aea-42e7007cf518	Error: Not allowed by CORS, 401
+2022/09/30	00:56:12	1ebcb623-5965-4822-9f05-77fb85907082	Error: Not allowed by CORS, 401
+2022/09/30	00:56:12	35a185eb-81af-443f-9134-60166086114e	Error: Not allowed by CORS, 401
+2022/09/30	00:56:12	99b44b18-8831-4f14-917b-ec0d061deefe	Error: Not allowed by CORS, 401
+2022/09/30	00:56:12	36b18f99-e01c-47bb-a2d1-a863b20b67d2	Error: Not allowed by CORS, 401
+2022/09/30	00:56:12	2a4c58b0-3869-4fd9-9f30-b536d6abc0d2	Error: Not allowed by CORS, 401
+2022/09/30	00:56:12	cfe72740-e613-44a1-9568-39ffbf6855c8	Error: Not allowed by CORS, 401
+2022/09/30	00:58:26	e86aaaad-47b0-42ae-bbbf-5cbcd11bfd7e	Error: Not allowed by CORS, 401
+2022/09/30	00:58:26	a45acbd2-f9f3-4daf-b98e-cabc1a0533c4	Error: Not allowed by CORS, 401
+2022/09/30	00:58:26	62013f0f-234b-4625-b963-317f9f01a3cb	Error: Not allowed by CORS, 401
+2022/09/30	00:58:26	af45dbdb-67f3-4dc7-8a89-d280bb182438	Error: Not allowed by CORS, 401
+2022/09/30	00:58:26	082bb4c8-acf0-45da-904f-00f241a3599b	Error: Not allowed by CORS, 401
+2022/09/30	00:58:26	6490bc3f-dea4-47d9-921d-3b8378cf2fef	Error: Not allowed by CORS, 401
+2022/09/30	01:01:55	b9b9e638-3dcc-47af-a6b4-047db90e8f93	Error: Not allowed by CORS, 401
+2022/09/30	01:01:55	b9240c75-13da-4ab6-b306-6adcf2066238	Error: Not allowed by CORS, 401
+2022/09/30	01:01:55	b30f7b2d-32f5-4bd8-a08e-63428b304d04	Error: Not allowed by CORS, 401
+2022/09/30	01:01:55	5d6f44e3-1bb6-4493-9fb7-afa5d2452b21	Error: Not allowed by CORS, 401
+2022/09/30	01:01:55	5ef71e47-9e6d-4734-bf5a-40dafcb6010f	Error: Not allowed by CORS, 401
+2022/09/30	01:01:55	06137fa5-e150-44aa-886c-023926803ce1	Error: Not allowed by CORS, 401
+2022/09/30	01:02:39	9add778c-b161-42a4-a88a-b86ea6540054	Error: Not allowed by CORS, 401
+2022/09/30	01:02:39	d4d93d64-fc91-41e5-a1e2-2753492662ca	Error: Not allowed by CORS, 401
+2022/09/30	01:02:39	763e601a-c9c0-47c9-b796-3d0943644bb8	Error: Not allowed by CORS, 401
+2022/09/30	01:02:39	0429fa6d-e6cb-4e1f-9d84-e5eb7973516f	Error: Not allowed by CORS, 401
+2022/09/30	01:02:39	6f379fde-8b51-481e-a1f9-5dd7db67ee35	Error: Not allowed by CORS, 401
+2022/09/30	01:02:39	af55ffd5-808e-414e-91f3-9dd7d77aba16	Error: Not allowed by CORS, 401
+2022/09/30	01:02:52	7048b6df-98c2-4e19-9ca7-37c2ffa6f6ba	Error: Not allowed by CORS, 401
+2022/09/30	01:02:52	3a3b6b7c-c6f9-4f45-aacd-f3db14ebbb08	Error: Not allowed by CORS, 401
+2022/09/30	01:02:52	72ddd05b-3b50-41c3-bafe-007893e7d3fe	Error: Not allowed by CORS, 401
+2022/09/30	01:02:52	b4925a41-5344-4e11-9678-4333e46dead2	Error: Not allowed by CORS, 401
+2022/09/30	01:02:52	cebf3831-1b9e-4e0d-9383-1514f150e03c	Error: Not allowed by CORS, 401
+2022/09/30	01:02:52	0e82d5e5-8982-4819-b5ca-7492217a796e	Error: Not allowed by CORS, 401
+2022/09/30	01:05:34	1858262f-bcbc-4807-83ad-8feafee9a972	Error: Not allowed by CORS, 401
+2022/09/30	01:05:34	f1889dee-d8ce-46a1-9449-854c19d748aa	Error: Not allowed by CORS, 401
+2022/09/30	01:05:34	354a595f-ae77-4b7a-88c9-7c6f20025bf1	Error: Not allowed by CORS, 401
+2022/09/30	01:05:34	85572f8b-3e21-4201-a47f-ba66dce0ccc3	Error: Not allowed by CORS, 401
+2022/09/30	01:05:34	a5345ec1-a4f6-42c5-a0c1-d279c702d7f9	Error: Not allowed by CORS, 401
+2022/09/30	01:05:34	c390bca3-4b37-4f3f-aeaa-7b644b1a6388	Error: Not allowed by CORS, 401
+2022/09/30	01:06:40	7aa25361-461a-4636-81d7-d6993ccf0edd	Error: Not allowed by CORS, 401
+2022/09/30	01:06:40	68a71dd1-8359-4942-a17c-695d7047aabe	Error: Not allowed by CORS, 401
+2022/09/30	01:06:40	298bf12d-527f-4b36-a213-6b87ff604923	Error: Not allowed by CORS, 401
+2022/09/30	01:06:40	b03aa2a0-be5e-469a-81a9-d6b3db9653cb	Error: Not allowed by CORS, 401
+2022/09/30	01:06:40	fcd99d02-2e2a-40c3-ada1-682ad2c7559e	Error: Not allowed by CORS, 401
+2022/09/30	01:06:40	7f6fe4cf-9456-4a09-b557-4d9a6d7efbe2	Error: Not allowed by CORS, 401
+2022/09/30	01:06:53	f6eb83f6-48a4-4b3e-be46-797485206a7d	Error: Not allowed by CORS, 401
+2022/09/30	01:06:53	c9af7893-d8ea-45b0-871d-a57aace84091	Error: Not allowed by CORS, 401
+2022/09/30	01:06:53	5956a557-2d14-4f4a-b6ad-f565c446b144	Error: Not allowed by CORS, 401
+2022/09/30	01:06:53	ef195247-6268-40d0-807e-8b0943333914	Error: Not allowed by CORS, 401
+2022/09/30	01:06:53	71cfd4ea-8945-491b-928c-9301f9743bf5	Error: Not allowed by CORS, 401
+2022/09/30	01:06:53	084e0fb1-4921-4bde-a87d-ec1a3aca3bd6	Error: Not allowed by CORS, 401
+2022/09/30	01:30:51	1e76a5eb-f21b-4b4d-81aa-c765a3b48715	Error: Not authorized to access this route, 401
+2022/09/30	01:31:40	09d8398b-b8c5-4155-9c93-8b45e096684c	Error: Not authorized to access this route, 401
+2022/09/30	01:33:03	2ff408b7-f342-4bae-8d9a-a1e08690451a	Error: Not authorized to access this route, 401
+2022/09/30	01:33:14	8fbcad58-a070-4b4a-9712-ff92cb6811fe	Error: Not authorized to access this route, 401
+2022/09/30	01:34:07	f23a0954-9494-4fdb-9a29-b86905708f5b	Error: Not authorized to access this route, 401
+2022/09/30	01:39:17	ac387cba-21da-4a6a-82b4-7184186bc866	Error: Not authorized to access this route, 401
+2022/09/30	01:41:11	1deb4ae8-8eee-4acf-bc6b-69a9b1808007	Error: Not authorized to access this route, 401
+2022/09/30	01:42:59	9f6779ee-4694-4d13-a155-e02e0e43bdce	Error: Not authorized to access this route, 401
+2022/09/30	01:43:11	48a9b447-4333-4959-a1ff-c5964af1ea85	Error: Not authorized to access this route, 401
+2022/09/30	01:43:34	a855fe6d-139a-4b92-a7d9-08151041ba8f	Error: Not authorized to access this route, 401
+2022/09/30	01:43:41	90a3ef94-9a4d-4caf-8bf9-d45ad5e07672	Error: Not authorized to access this route, 401
+2022/09/30	01:43:46	bfd4b376-b1d1-4809-8651-768c6fb06b7c	Error: Not authorized to access this route, 401
+2022/09/30	01:44:02	c8d6f91e-6788-40ae-ac74-6a7b891d17a2	Error: Not authorized to access this route, 401
+2022/09/30	01:44:17	eea5dbb8-838d-4234-a434-c202ca604b1d	Error: Not authorized to access this route, 401
+2022/09/30	01:44:45	1dca5ca5-9fbe-479d-ba22-067e68bf964e	Error: Not authorized to access this route, 401
+2022/09/30	01:45:19	0f9e1180-dda7-4fc1-9a77-13718b8b80ea	Error: Not authorized to access this route, 401
+2022/09/30	01:46:12	d91ed4c5-696c-497f-8eb7-6ce631e54b63	Error: Not authorized to access this route, 401
+2022/09/30	01:48:13	05c82313-e736-4918-b8c5-6a4120effbe2	Error: Not authorized to access this route, 401
+2022/09/30	01:49:52	c6cbbf35-a88c-4985-87be-0a14c5ebcedb	Error: Not authorized to access this route, 401
+2022/09/30	01:51:06	682a8ff5-c796-4e7a-9e22-4ed5aa73ef46	Error: Not authorized to access this route, 401
+2022/09/30	01:52:46	1605c921-710c-4199-9ad1-a72a82e83726	Error: Not authorized to access this route, 401
+2022/09/30	01:52:53	d5b11c08-d9ba-40ac-bd48-987d72386e2e	Error: Not authorized to access this route, 401
+2022/09/30	01:53:01	d9da0b7e-a6be-4bab-83a0-b5479abfbdf4	Error: Not authorized to access this route, 401
+2022/09/30	05:00:01	5ed88e54-7799-4638-865e-f5adbe14b2ff	Error: Not authorized to access this route, 401
+2022/09/30	05:14:28	fc723391-2c72-45ee-89db-c3450d729571	Error: Not authorized to access this route, 401
+2022/09/30	05:15:40	be61bc5e-498c-4e39-8e1e-e7ff3bb2b192	Error: Not authorized to access this route, 401
+2022/09/30	05:16:04	aa83b4ad-7a0e-4753-a870-69f5b40fa0e2	Error: Not authorized to access this route, 401
+2022/09/30	05:16:20	3cfcf9b5-98fe-4ee0-b1e8-06dc70d11091	Error: Not authorized to access this route, 401
+2022/09/30	05:37:10	fa22d351-dd9e-4cad-a255-b1ca46db0377	Error: Not authorized to access this route, 401
+2022/09/30	05:37:45	b01a3a5b-c613-43a3-9613-2267c01b31ba	Error: Not authorized to access this route, 401
+2022/09/30	05:39:22	4d632725-0b4c-470c-898a-891efb532acd	Error: Not authorized to access this route, 401
+2022/09/30	05:40:03	61820c4e-b911-4455-8bb6-12eaae58ef30	Error: Not authorized to access this route, 401
+2022/09/30	05:40:13	ae92d2f5-87af-4c02-9dc0-7392e84f7979	Error: Not authorized to access this route, 401
+2022/09/30	05:42:51	563b27c3-a836-4bce-863b-0790b3024e4f	Error: Not authorized to access this route, 401
+2022/09/30	05:43:40	007e54ba-f88b-4509-b3b5-1ae54663b3bb	Error: Not authorized to access this route, 401
+2022/09/30	05:43:57	75e1d6c8-763f-4c53-a4ef-cda1bcd44039	Error: Not authorized to access this route, 401
+2022/09/30	05:50:08	3baaf3ca-c506-4c5c-a188-504134ba245a	Error: Not authorized to access this route, 401
+2022/09/30	05:51:02	7e36fa65-523b-43ef-9f8a-9f58a2e9c9dd	Error: Not authorized to access this route, 401
+2022/09/30	05:58:08	4761d677-4548-4c76-8576-e288e3372776	Error: Not authorized to access this route, 401
+2022/09/30	06:00:38	0c64052e-9cc5-4ae1-ac3b-f3d3d7a5cb60	Error: Not authorized to access this route, 401
+2022/09/30	06:05:31	f25d1930-f1f7-4379-932a-98d1f510b6aa	Error: Not authorized to access this route, 401
+2022/09/30	06:05:37	7449596a-23d4-4ef1-93cf-6c8eba454d03	Error: Not authorized to access this route, 401
+2022/09/30	06:12:24	ffba22c4-f350-4824-8bb7-303bb27fd042	Error: Not authorized to access this route, 401
+2022/09/30	06:12:39	5a7fa5d8-d350-42e1-9284-87e28ce675f9	Error: Not authorized to access this route, 401
+2022/09/30	06:12:58	c9633be0-f920-43f5-88ad-9b31b3eeded2	Error: Not authorized to access this route, 401
+2022/09/30	06:13:05	db007512-1924-471a-96d2-2f799c0bd9f2	Error: Not authorized to access this route, 401
+2022/09/30	06:13:09	456ce762-69fc-4f07-b2f5-91a781ccd181	Error: Not authorized to access this route, 401
+2022/09/30	06:13:17	214fd494-20d0-414c-9758-d8e492dcaa9a	Error: Not authorized to access this route, 401
+2022/09/30	06:15:50	f4c07184-250b-4b01-95b7-ed24e364752a	Error: Not authorized to access this route, 401
+2022/09/30	06:16:58	48202e7b-75d2-48a7-baca-78896d6918a2	Error: Not authorized to access this route, 401
+2022/09/30	06:17:44	426a9941-ddac-4e15-a7f8-6da1b202eb16	Error: Not authorized to access this route, 401
+2022/09/30	06:17:55	a0054206-11c2-49a2-a05e-ecb3b5f4d123	Error: Not authorized to access this route, 401
+2022/09/30	06:18:14	e8665835-37af-438e-8f69-7f29e582e47b	Error: Not authorized to access this route, 401
+2022/09/30	06:19:39	d792e65d-203d-4dc3-88ca-37caaf0b7604	Error: Not authorized to access this route, 401
+2022/09/30	06:21:47	e4930a54-694d-4cbd-bfdd-15be0ff4ea15	Error: Not authorized to access this route, 401
+2022/09/30	06:23:23	a93d8e3d-df53-4722-9ead-112f675d6439	Error: Not authorized to access this route, 401
+2022/09/30	06:23:34	3553fd09-f3e8-4f7e-aa4f-0efe719d8799	Error: Not authorized to access this route, 401
+2022/09/30	06:26:51	91dfe45c-5c6d-4edd-922f-409da01efde9	Error: Not authorized to access this route, 401
+2022/09/30	06:27:28	1ecff02f-3a51-46fc-a931-17ff7c11a56f	Error: Must provide the project image, 400
+2022/09/30	06:27:48	108fa411-ba20-4530-ab3a-82b5a60742f6	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/09/30	06:29:13	91bf397a-2a98-4ff9-8157-58d3065f7aa1	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:30:12	b9781e63-6c85-4666-91f9-fe94fedcf438	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:31:36	8cf284bf-78ff-47ab-af66-85b393a144cb	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:32:50	0b7476b0-1bd6-4481-8cee-25693a18467a	Error: You don't have permission to access this source, 403
+2022/09/30	06:32:50	c6f89f11-782c-4e4b-9949-b1dbeff24461	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:33:44	c90efd82-dbd9-4dfb-9cb6-d728593756bd	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:37:24	7d4f12ee-577e-4ee7-ab58-c2383e3ed1e8	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/09/30	06:38:21	3e1f20af-7ebd-4670-8582-3dcc3b1d5c94	Error: You don't have permission to access this source, 403
+2022/09/30	06:38:22	1a6ffaae-4200-4254-99ed-f1f60c8d103e	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/09/30	06:39:15	11d3e4bd-087e-4d48-ba20-a0c8b5c8e53e	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:39:40	efcb46d9-c914-4456-b221-0813742498f1	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/09/30	06:40:01	349fcbf1-8d39-4f98-aa35-722992e7c5c2	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/09/30	20:34:45	6846848a-75e5-4975-90c6-af3a7a916134	Error: Not authorized to access this route, 401
+2022/09/30	20:42:33	43736fbb-d090-43d3-b80d-77ee6dd11481	Error: Not authorized to access this route, 401
+2022/09/30	20:43:25	30c8b5de-6a6a-41f8-9473-569f77ed2997	Error: Not authorized to access this route, 401
+2022/09/30	20:43:55	efaef5e4-86c1-4091-b1cf-44404561f614	Error: Not authorized to access this route, 401
+2022/10/09	15:14:48	da377466-b941-4f17-92fe-736a0ce4816a	Error: Not authorized to access this route, 401
+2022/10/09	17:29:34	e878840b-a227-4584-b7ae-8d52c0209fda	Error: Invalid Credentials, 401
+2022/10/09	17:29:50	d7b274ff-d940-4c48-aca1-3c445fc1809c	Error: Invalid Credentials, 401
+2022/10/09	17:34:34	fc59d98c-b136-4f92-9f68-7388cf3ac594	Error: Invalid Credentials, 401
+2022/10/09	17:34:38	1e088874-090c-4059-9854-fec20260c67a	Error: Invalid Credentials, 401
+2022/10/09	17:34:50	445e8e53-332d-4106-9184-8c16c19202fa	Error: Invalid Credentials, 401
+2022/10/09	17:36:36	a8035804-6f0d-4dae-b9d6-22362df57667	Error: Invalid Credentials, 401
+2022/10/09	18:50:18	f7447eea-fcec-4205-af56-5209bb9f63b9	Error: Not authorized to access this route, 401
+2022/10/09	18:50:25	e22e8dcb-762e-419b-9c70-18f183cac846	Error: Not authorized to access this route, 401
+2022/10/09	19:13:26	8939e147-4e4e-43df-8a0a-84b82b7415f4	Error: Not authorized to access this route, 401
+2022/10/09	19:13:32	61e6324c-2f35-43d7-a689-d7c5d507ea91	Error: Not authorized to access this route, 401
+2022/10/09	19:13:41	73eed42e-7c0d-45d0-9359-4e117a782a0b	Error: Not authorized to access this route, 401
+2022/10/09	19:13:49	6cbc661b-7843-4de8-9adf-689a2218b3c5	Error: Not authorized to access this route, 401
+2022/10/09	19:14:34	d09b1c5a-27f7-400a-b565-4b42c1c659bf	Error: Not authorized to access this route, 401
+2022/10/09	19:15:04	637b5638-fc31-4a25-b77d-c7a8bc7e2926	Error: Not authorized to access this route, 401
+2022/10/09	19:16:16	d59724b3-ba75-4790-9653-52bb4772807e	Error: Not authorized to access this route, 401
+2022/10/09	19:17:25	dce3f959-cd2f-4ea5-b82f-0756b8517cc4	Error: Not authorized to access this route, 401
+2022/10/09	19:18:08	e357a88c-def7-45de-948c-6516b5c5de32	Error: Not authorized to access this route, 401
+2022/10/09	19:19:21	e0e1a73b-7b84-49de-a4aa-8c7cb7754b6b	Error: Not authorized to access this route, 401
+2022/10/09	19:19:27	f892af3f-9c19-45dd-a10a-f506d8b86121	Error: Not authorized to access this route, 401
+2022/10/09	19:20:13	658ce384-60d1-4cd7-91ce-a5cc31df7cde	Error: Not authorized to access this route, 401
+2022/10/09	19:21:23	3f8b244c-d874-4905-a4ab-360dbf977d26	Error: Not authorized to access this route, 401
+2022/10/09	19:23:36	cc75845e-18ca-42db-8cae-77e7a239eb42	Error: Not authorized to access this route, 401
+2022/10/09	19:23:51	7ad0f586-3098-4db4-b136-51fa5971d3cd	Error: Not authorized to access this route, 401
+2022/10/09	19:24:11	0cec58df-dc68-49f1-8562-3dfece385e67	Error: Not authorized to access this route, 401
+2022/10/09	19:25:03	7ec034bf-07af-430e-afd4-74ed17538c1a	Error: Not authorized to access this route, 401
+2022/10/09	19:27:50	1fb5715b-dd5f-48cd-beb5-0a0be2e3681f	Error: Not authorized to access this route, 401
+2022/10/09	19:37:43	7d91f8e7-ade5-4b78-a1e3-588cc79b3298	Error: Not authorized to access this route, 401
+2022/10/09	19:40:00	4db098ba-1d5c-4412-a553-434cab984438	Error: Not authorized to access this route, 401
+2022/10/09	19:41:16	66d53a50-aa38-44ea-9f35-e7fb8dcf1096	Error: Not authorized to access this route, 401
+2022/10/09	19:42:33	89b8c86b-fd32-407b-9dae-f97a5536b151	Error: Not authorized to access this route, 401
+2022/10/09	19:44:26	27b17376-ec84-4023-bb4f-7cd2f0816acb	Error: Not authorized to access this route, 401
+2022/10/09	19:44:35	7e496e41-3d35-42d5-8831-08fceda657fc	Error: Not authorized to access this route, 401
+2022/10/09	19:44:46	437ed99a-13e9-4895-98d3-42cd17b4bfa7	Error: Not authorized to access this route, 401
+2022/10/09	19:44:56	15a654c0-ddfe-4c74-9c46-4aece2dc3553	Error: Not authorized to access this route, 401
+2022/10/09	19:45:18	377ce559-2d0c-4e03-b710-b9bba89f3e71	Error: Not authorized to access this route, 401
+2022/10/09	19:46:19	88c8f34e-b8fe-4aaf-9cdd-acd86ca0c772	Error: Not authorized to access this route, 401
+2022/10/09	19:47:31	dbbeaf0f-0b9f-421e-8933-1864b958773a	Error: Not authorized to access this route, 401
+2022/10/09	19:49:41	214027c8-7101-453e-a268-85377fb59187	Error: Not authorized to access this route, 401
+2022/10/09	19:52:42	99d6bc13-b4d8-48ac-9476-90fe634c97b7	Error: Not authorized to access this route, 401
+2022/10/09	19:54:13	26c94a08-bcb3-4fc1-9e21-5cdf040de2e6	Error: Not authorized to access this route, 401
+2022/10/09	19:58:00	257c4ea2-9d83-4935-bfbb-b4a74c29addb	Error: Not authorized to access this route, 401
+2022/10/09	20:00:16	d6510a35-bebd-4dca-a64b-64cb1961dd16	Error: Not authorized to access this route, 401
+2022/10/09	20:00:42	557a439d-61d9-44d8-84fe-d4942eb9baca	Error: Not authorized to access this route, 401
+2022/10/09	20:02:23	263a18ab-2169-4ff5-82c9-02cf7fdda279	Error: Not authorized to access this route, 401
+2022/10/09	20:06:53	88e63c75-3363-4650-81ac-a5bcd79f6569	Error: You can't submit an empty form!, 400
+2022/10/09	20:07:00	314226b6-5e7c-44e7-9bea-8e9e4955d226	Error: You can't submit an empty form!, 400
+2022/10/09	20:10:23	5a40c871-0b8d-456c-9054-55bb2d0ffa10	Error: You can't submit an empty form!, 400
+2022/10/09	20:10:39	c5c3f4e3-4898-465d-bd15-20caae221235	Error: You can't submit an empty form!, 400
+2022/10/09	20:10:57	a83b7dbf-eb11-4a56-b211-f67215ccc5d7	Error: You can't submit an empty form!, 400
+2022/10/09	20:18:30	a31403b4-b1c1-4666-8288-43ba2ce931f7	Error: You don't have permission to access this source, 403
+2022/10/09	20:18:31	1711d66d-6852-4754-895e-862706cbe321	Error: You can't submit an empty form!, 400
+2022/10/09	20:20:19	e7e99e08-2ab4-4187-9231-02384e64ac28	Error: You can't submit an empty form!, 400
+2022/10/09	21:24:24	88500b91-ec5a-458d-856d-82e9047d3fe8	Error: You don't have permission to access this source, 403
+2022/10/09	21:24:24	ab5e132d-14e5-4ed0-ad12-b814f4209f92	Error: You can't submit an empty form!, 400
+2022/10/09	21:31:33	161787d9-eff8-4ff3-bbd7-dc8477c01642	Error: Not authorized to access this route, 401
+2022/10/09	21:36:12	8ff854d0-d8d6-4f0f-aec6-484f158755d6	Error: Not authorized to access this route, 401
+2022/10/09	21:40:57	376cc2f1-0b73-46b0-9e96-f5b7a755efff	Error: Not authorized to access this route, 401
+2022/10/09	22:44:47	7c3d2387-b6f4-44e7-8751-63e76e8dc4b8	Error: Not authorized to access this route, 401
+2022/10/09	22:51:32	8bce2573-7c76-433b-bf7a-7ed8bd635724	Error: Not authorized to access this route, 401
+2022/10/09	23:11:58	ebc747b7-113b-44f0-a04b-10c86b3cb046	Error: Not authorized to access this route, 401
+2022/10/09	23:14:12	c5c83bc8-28a5-4075-bfab-30cae89d8618	Error: Not authorized to access this route, 401
+2022/10/10	00:17:04	5e18fc3d-841f-4098-8d49-e0c4660262e5	Error: Not authorized to access this route, 401
+2022/10/10	01:17:57	90913328-538e-47c3-aba2-c17970a8f9a3	Error: Not authorized to access this route, 401
+2022/10/10	01:18:10	04d266b0-5f49-4e9d-99a0-b153c078cabd	Error: Not authorized to access this route, 401
+2022/10/10	12:50:56	2deb378f-e710-46b8-86a1-edffe092e137	Error: Not authorized to access this route, 401
+2022/10/10	12:51:52	66c0a6c4-61ab-44fa-be02-964a7ec5fab3	Error: Not authorized to access this route, 401
+2022/10/10	12:52:00	35752e07-045c-46d8-82e7-f8c18a64423e	Error: Not authorized to access this route, 401
+2022/10/10	12:52:07	6482475e-8701-4ca6-a1e1-21078d79fdb6	Error: Not authorized to access this route, 401
+2022/10/10	12:52:18	498be938-361b-4cc7-bce3-ecb2db96bb3d	Error: Not authorized to access this route, 401
+2022/10/10	13:15:27	3db16f23-9851-4dbf-8cb4-5a14da410778	Error: Not authorized to access this route, 401
+2022/10/10	13:15:47	863a9843-4e84-436a-a785-c463bcc097cc	Error: Not authorized to access this route, 401
+2022/10/10	13:15:58	7c586e62-a0e3-49ab-8fac-9cb7b9f8d9fb	Error: Not authorized to access this route, 401
+2022/10/10	13:16:57	91407d98-0164-43cc-9f1d-ac83b3c6d158	Error: Not authorized to access this route, 401
+2022/10/10	13:17:32	cdff23fd-3c06-4ce1-834e-4618d33f2eed	Error: Not authorized to access this route, 401
+2022/10/10	13:18:24	7f21675c-def2-4aa1-bf93-33f8bb2f34e0	Error: Not authorized to access this route, 401
+2022/10/10	13:19:14	b8c854f8-38be-4263-9a9f-1a0be2bea728	Error: Not authorized to access this route, 401
+2022/10/10	13:19:58	955d6efd-af1c-4583-9d06-21a6e171d83e	Error: Not authorized to access this route, 401
+2022/10/10	13:21:11	69e8a54d-8985-47a3-8289-fd0c9f0cc38c	Error: Not authorized to access this route, 401
+2022/10/10	13:21:50	d6437afe-9048-4ad0-9a94-8907d1c71879	Error: Not authorized to access this route, 401
+2022/10/10	13:22:28	51b298fa-88ad-4687-bd67-1e4d05b5e297	Error: Not authorized to access this route, 401
+2022/10/10	13:22:51	869db9a9-3647-43fc-ad38-3e240e94c132	Error: Not authorized to access this route, 401
+2022/10/10	13:24:45	a189ffa1-15d9-4c9e-8933-7a717ab0e33d	Error: Not authorized to access this route, 401
+2022/10/10	13:25:29	b62c51f5-3bde-4edd-8eb2-f9bcb5e7fdab	Error: Not authorized to access this route, 401
+2022/10/10	13:25:50	3e6ddef9-9cff-42dc-be92-1f8982988503	Error: Not authorized to access this route, 401
+2022/10/10	13:29:09	3ed62a81-9d71-4357-9de9-1ebc957dc8db	Error: Not authorized to access this route, 401
+2022/10/10	13:31:33	1858d02a-6708-44bd-bf35-7e42d8bf37ac	Error: Not authorized to access this route, 401
+2022/10/10	13:32:19	8603858b-eeea-44a4-b3db-971325644895	Error: Not authorized to access this route, 401
+2022/10/10	13:32:55	30762a49-d3a0-46c6-8ce5-649d1cd4b26d	Error: Not authorized to access this route, 401
+2022/10/10	13:33:25	f07f8204-62ad-4ef0-896c-682add56b1e2	Error: Not authorized to access this route, 401
+2022/10/10	13:34:28	22a7da88-cdc1-4688-8c13-b1f3df88d8aa	Error: Not authorized to access this route, 401
+2022/10/10	13:41:55	b568e0bc-5c81-489f-9a45-df150e1cbf8e	Error: Not authorized to access this route, 401
+2022/10/10	14:23:04	f1b73112-1d39-488e-afc1-e1d730a905f2	Error: Not authorized to access this route, 401
+2022/10/10	14:23:15	34dbcb88-d63d-4c89-9633-42477a52f00c	Error: Not authorized to access this route, 401
+2022/10/10	14:23:31	1694e094-107a-43a0-bb2e-19b5a426b29a	Error: Not authorized to access this route, 401
+2022/10/10	14:23:40	25ae72b6-669b-48ac-81e2-b94919c04e89	Error: Not authorized to access this route, 401
+2022/10/10	14:26:52	0ce1f816-d92b-44e1-90e4-23a531bc4e7f	Error: Not authorized to access this route, 401
+2022/10/10	14:27:21	6d912bb4-13a5-4821-b675-92076cff5400	Error: Not authorized to access this route, 401
+2022/10/10	14:37:17	63870f4e-e4a1-4649-a82b-0e6149f8628e	Error: Not authorized to access this route, 401
+2022/10/10	14:50:15	752ac4ff-68eb-49d7-ae52-87e9f4426db4	Error: Not authorized to access this route, 401
+2022/10/10	14:51:26	50d4451f-1a97-4527-bbba-699dbd597f4c	Error: Not authorized to access this route, 401
+2022/10/10	14:51:43	2ce0270f-3bfa-4def-a456-7a7ddfdd569b	Error: Not authorized to access this route, 401
+2022/10/10	15:07:56	bf2a70bf-9283-4db5-a891-3fabf25558f7	Error: Not authorized to access this route, 401
+2022/10/10	15:08:55	eac39d88-b0f8-4206-b3a9-3779d7acc927	Error: Not authorized to access this route, 401
+2022/10/10	15:09:27	0860e21e-71cf-4783-b82b-a1bcf16808c9	Error: Not authorized to access this route, 401
+2022/10/10	15:09:58	d120bf40-5e25-45b6-bda3-53e8fd85ca22	Error: Not authorized to access this route, 401
+2022/10/10	15:10:03	9b8f2310-57fb-4604-a79a-88fa65f2f550	Error: Not authorized to access this route, 401
+2022/10/10	15:10:14	ec95213f-c34a-43c6-8e63-a787e0acc514	Error: Not authorized to access this route, 401
+2022/10/10	15:10:22	d0baa580-3a55-4d65-a9ca-b0a93d4acc3c	Error: Not authorized to access this route, 401
+2022/10/10	15:10:38	cc232151-e429-425c-bc1c-8c3943450365	Error: Not authorized to access this route, 401
+2022/10/10	15:10:48	0c4c13bc-3a16-4aea-9257-4a3f0d0c27bf	Error: Not authorized to access this route, 401
+2022/10/10	15:11:42	628717db-5a24-4c65-9cef-8745481b9d19	Error: Not authorized to access this route, 401
+2022/10/10	15:12:59	2bb1bb67-0ee0-44ae-ba92-678a962f4082	Error: Not authorized to access this route, 401
+2022/10/10	15:13:23	44e4523a-a2c3-4e5c-aba7-33f9803c0f5f	Error: Not authorized to access this route, 401
+2022/10/10	15:14:11	bc27277b-2354-4892-9b26-5f37c8dce47c	Error: Not authorized to access this route, 401
+2022/10/10	15:15:18	1e9791db-17c7-45db-9212-19270e9466b2	Error: You can't submit an empty form!, 400
+2022/10/10	15:18:49	5ad8fe96-4069-4308-9127-048a084c527a	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/10/10	15:20:29	f6085dea-189a-4c95-a200-05476d4c31cb	Error: You don't have permission to access this source, 403
+2022/10/10	15:20:29	acd713d2-9a64-49ac-bd9d-3d0e6d2165ac	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/10/10	15:20:39	4560878a-ef32-4177-8a40-40966359cc41	ValidationError: Project validation failed: rating: Must provide the project rating, technologies: Must provide the project technologies, startingDate: Must provide the starting date, finishingDate: Must provide the finishing date, undefined
+2022/10/10	15:20:53	1e32c559-a478-427e-971e-f44bff97bbb2	Error: You can't submit an empty form!, 400
+2022/10/10	15:21:05	9bf932c6-fdd0-4da8-b05a-9502eb0f3190	Error: You can't submit an empty form!, 400
+2022/10/10	15:21:46	29f9ede9-22b0-497d-980d-2b24da2f0398	Error: You can't submit an empty form!, 400
+2022/10/10	16:27:30	3a9e2695-a80f-4112-b755-fc4264c95910	Error: You don't have permission to access this source, 403
+2022/10/10	16:42:35	11cb894a-15a7-43e0-babd-f720d4b4e1c9	Error: Not authorized to access this route, 401
+2022/10/10	16:42:55	b4ff6118-6093-424a-9d2e-8511de55549c	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/10/10	16:44:15	080bdfbf-1485-44af-97c9-7170174d463f	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/10/10	16:44:49	e3f65bfb-1f5b-49a9-a161-fcda972535ad	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/10/10	16:46:04	25971630-75ed-4875-8b15-68a770e8efe2	ReferenceError: BadRequestError is not defined, undefined
+2022/10/10	16:46:53	60d53d89-9668-4fe2-b535-3f1327d1b2da	Error: Must provide the profile Image, 400
+2022/10/10	16:47:04	3a7c0424-17ff-4657-973b-5adc0aa20a70	Error: Must provide the profile Image, 400
+2022/10/10	16:48:38	245e8783-b841-4338-8318-de608a5f8ad0	Error: You don't have permission to access this source, 403
+2022/10/10	16:48:39	6e5626e8-c151-45f8-969a-70bcace08dc1	Error: Must provide the profile Image, 400
+2022/10/10	16:49:17	b5b991d5-ac05-40ce-968f-28f9be0264a9	Error: Must provide the profile Image, 400
+2022/10/10	16:49:52	6b6f888e-d4b9-4f42-b4bf-6b44848c59c5	Error: Must provide the profile Image, 400
+2022/10/10	16:49:57	2b5c3334-139b-42c1-85b0-81f0d5ef1ec0	Error: Must provide the profile Image, 400
+2022/10/10	16:50:44	61ac0ea7-5acd-47df-8664-dae7d045a819	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/10/10	16:51:52	2c6c3243-7312-4cac-b93d-39356015af46	Error: Must provide the profile Image, 400
+2022/10/10	16:52:45	16ef8c82-1e17-481a-bcae-bdcd9c035b92	Error: Must provide the profile Image, 400
+2022/10/10	16:58:06	d01dd1c8-87d3-4c8c-9190-1d602d5de3c8	Error: You don't have permission to access this source, 403
+2022/10/10	16:58:06	a9d709c2-546b-4448-863f-91efdd5a3b3d	Error: Must provide the profile Image, 400
+2022/10/10	17:07:04	a49c765c-47b9-49ca-bd2b-94238681dece	Error: You don't have permission to access this source, 403
+2022/10/10	17:07:04	c9ad1bc2-3517-4b28-9aba-d5e8e3df1258	SyntaxError: Unexpected token u in JSON at position 0, undefined
+2022/10/10	17:07:58	0292f6c7-ffba-483b-ba13-798e6225f40b	Error: Must provide the profile Image, 400
+2022/10/10	17:08:07	91a64af5-08e3-4681-aa7f-d488664be550	Error: Must provide the profile Image, 400
+2022/10/11	11:49:08	9bb3bbf3-4594-4075-8418-5204bf385610	Error: Not allowed by CORS, 401
+2022/10/11	11:49:08	3c9be410-ac7c-40df-adb4-c373be3d6aa1	Error: Not allowed by CORS, 401
+2022/10/11	11:49:08	d8162473-7f93-4bb0-a30f-83f699e0405c	Error: Not allowed by CORS, 401
+2022/10/11	11:49:08	176463e2-f13e-462a-92b8-9f0c6b05a8d4	Error: Not allowed by CORS, 401
+2022/10/11	11:49:08	8e3c0229-16dd-42c9-a17c-bcf9668c2131	Error: Not allowed by CORS, 401
+2022/10/11	11:49:08	d2e3fb23-6fba-4ff7-b1c7-4f6bdc9ab9b2	Error: Not allowed by CORS, 401
+2022/10/11	11:49:32	eb0a8abc-8b91-434c-b82d-2b9c83419adb	Error: Not allowed by CORS, 401
+2022/10/11	11:49:32	ad63ad9f-c310-4fbd-ac0e-eb22e0692bc4	Error: Not allowed by CORS, 401
+2022/10/11	11:49:32	006f3319-7892-4b17-8715-87f19889eb02	Error: Not allowed by CORS, 401
+2022/10/11	11:49:32	8de85598-63cf-46fe-8137-5ae3c55ef332	Error: Not allowed by CORS, 401
+2022/10/11	11:49:32	f0e33002-423c-4aa9-958b-d4577307a59c	Error: Not allowed by CORS, 401
+2022/10/11	11:49:32	1a17e10e-ec3b-4a27-b3a2-e16a385d6efd	Error: Not allowed by CORS, 401
+2022/10/11	11:50:15	32e864cd-68cf-4f98-a1a4-d71bbde0a1da	Error: Not allowed by CORS, 401
+2022/10/11	11:50:15	d05add24-b1b5-4498-8012-64c88842ffd5	Error: Not allowed by CORS, 401
+2022/10/11	11:50:15	aa47ee47-5dc5-4239-a2ba-1609218f6646	Error: Not allowed by CORS, 401
+2022/10/11	11:50:15	1216cc51-7e74-4440-99af-f5bfb51bb5bb	Error: Not allowed by CORS, 401
+2022/10/11	11:50:15	7d26c9d4-8cc9-45aa-941f-c15d2d7ae1e6	Error: Not allowed by CORS, 401
+2022/10/11	11:50:15	aa231629-b6b6-4f41-aa54-0e45364b15d0	Error: Not allowed by CORS, 401
+2022/10/11	11:52:34	9f6b89b3-4f99-4201-9c24-7919e197d994	Error: Not allowed by CORS, 401
+2022/10/11	11:52:34	f0b9d739-f544-4bd6-8623-54e098304ce7	Error: Not allowed by CORS, 401
+2022/10/11	11:52:34	905ca4f9-a19e-4589-a6c1-da3650876ff7	Error: Not allowed by CORS, 401
+2022/10/11	11:52:34	3def09ff-ab33-422b-93c2-baf905b7cb82	Error: Not allowed by CORS, 401
+2022/10/11	11:52:34	49350b52-1695-4fc4-9614-69976e19864e	Error: Not allowed by CORS, 401
+2022/10/11	11:52:34	e705132b-8afa-4152-b6d5-daf689c1e691	Error: Not allowed by CORS, 401
+2022/10/11	11:53:59	1824e68e-74fd-4b58-bd11-f9a8e8c47512	Error: Not allowed by CORS, 401
+2022/10/11	11:53:59	e94566c4-cd43-489d-942f-3b63215f9b79	Error: Not allowed by CORS, 401
+2022/10/11	11:53:59	1634d5e0-2185-4cbe-90e9-ad8d49347be4	Error: Not allowed by CORS, 401
+2022/10/11	11:53:59	bcef818d-5233-4dec-a2e7-35f8a8591aa0	Error: Not allowed by CORS, 401
+2022/10/11	11:53:59	87b51a57-668f-419a-8db5-04c7d830f070	Error: Not allowed by CORS, 401
+2022/10/11	11:53:59	7e693ce6-7d44-47a5-9e2c-a6a56f3715e6	Error: Not allowed by CORS, 401
+2022/10/11	12:33:18	5b04f7e8-d84b-439e-9a7d-ad228a0f5163	Error: Not authorized to access this route, 401
+2022/10/11	12:33:43	42f519e1-54ae-4a38-bdb1-eef9eafaac73	Error: Not authorized to access this route, 401
+2024/10/14	14:07:22	6185c086-e3fa-4912-91c6-fae9e5dd110d	Error: Not allowed by CORS, 401
+2024/10/14	14:07:22	143065c7-0cd0-489d-a6b6-fed772aba013	Error: Not allowed by CORS, 401
+2024/10/14	14:07:22	3fa7d218-aab4-4f68-9f17-15e130d0488b	Error: Not allowed by CORS, 401
+2024/10/14	14:07:22	d2470dd9-cee0-406e-a0fa-30a27f55c5ad	Error: Not allowed by CORS, 401
+2024/10/14	14:07:22	af8b7ab4-91ff-4b4e-a76a-5d24a6f82bee	Error: Not allowed by CORS, 401
+2024/10/14	14:07:22	862e1c45-ce4c-4264-8ef1-dca488c44613	Error: Not allowed by CORS, 401
+2024/10/14	14:07:23	c301508d-6079-41b1-b673-1c59bbe035ac	Error: Not allowed by CORS, 401
+2024/10/14	14:07:23	3b052030-a6df-4af4-bacf-8e0dc64246c4	Error: Not allowed by CORS, 401
+2024/10/14	14:07:23	808c40b7-9770-4946-9227-779fe65c93da	Error: Not allowed by CORS, 401
+2024/10/14	14:07:23	11949eb1-0c23-43a1-b765-11b5db37ac59	Error: Not allowed by CORS, 401
+2024/10/14	14:07:23	0ca39366-18fb-4991-b552-776b9a7dc2fa	Error: Not allowed by CORS, 401
+2024/10/14	14:07:23	cf6f2d8c-74b4-421c-8783-2ddf4e14a84d	Error: Not allowed by CORS, 401
+2024/10/14	14:08:42	86156d31-2a01-4525-a2e2-455790911166	Error: Not allowed by CORS, 401
+2024/10/14	14:08:42	727201de-7ce5-48e0-a675-097f7638878a	Error: Not allowed by CORS, 401
+2024/10/14	14:08:42	81911d26-500d-4c25-ae5b-d0474ffce216	Error: Not allowed by CORS, 401
+2024/10/14	14:08:42	6121708c-6a6a-45b7-87a9-61ebba868d60	Error: Not allowed by CORS, 401
+2024/10/14	14:08:42	23f49bfd-4ddc-47f5-b754-1b18eed433b0	Error: Not allowed by CORS, 401
+2024/10/14	14:08:42	51ffd876-6359-4836-b385-1980b86f3890	Error: Not allowed by CORS, 401
+2024/10/14	14:15:55	e7304cca-3137-4bf4-9e62-97c580f68631	Error: Invalid Credentials, 401
+2024/10/14	14:15:59	175f9bf7-01af-4998-b6a3-2e10091b007d	Error: Invalid Credentials, 401
+2024/10/14	14:16:03	25eb923f-1f2d-4c99-936b-bd8e1f930c9e	Error: Invalid Credentials, 401
+2024/10/14	14:16:32	552fbff9-4b34-47fc-afd4-49aa0cbbbee1	Error: Not authorized to access this route, 401
+2024/10/14	14:26:30	ff90ecd7-23a6-48f2-82a1-6373d711eb58	Error: secretOrPrivateKey must have a value, undefined
+2024/10/14	14:26:39	7ed6c7a9-3e33-40ac-9f5b-1a1fd1ee1922	Error: Invalid Credentials, 401
+2024/10/14	14:27:04	cacb92fd-8a5c-4b66-b8d1-3aee6fe982b3	Error: Invalid Credentials, 401
+2024/10/14	14:27:08	b3de18a8-a74d-40ae-a685-7c8986f77291	Error: Invalid Credentials, 401
+2024/10/14	14:27:08	66e87d1b-0d97-48e8-8c6b-adbe1a9224c8	Error: Invalid Credentials, 401
+2024/10/14	14:28:09	6fee2401-4238-4370-b531-e7eb194ea35e	Error: Invalid Credentials, 401
+2024/10/14	14:28:13	1170035b-a7ed-4c68-945f-57537dc88be9	Error: Invalid Credentials, 401
+2024/10/14	14:33:28	c851d3a8-f380-42c9-af07-1523c932d6ff	Error: Not authorized to access this route, 401
+2024/10/14	14:34:41	ae76a7f7-6535-40ea-9d8b-8b3ea81f78f8	Error: Not authorized to access this route, 401
